@@ -1,0 +1,3 @@
+digraph RedBlackTree {
+    node [shape=circle, style=filled, color=black, fontcolor=white];
+}

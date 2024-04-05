@@ -1,0 +1,16 @@
+digraph RedBlackTree {
+    node [shape=circle, style=filled, color=black, fontcolor=white];
+    15 [label="15", fillcolor="black"];
+    15 -> 7;
+    7 [label="7", fillcolor="black"];
+    7 -> 11;
+    11 [label="11", fillcolor="red"];
+    15 -> 30;
+    30 [label="30", fillcolor="red"];
+    30 -> 29;
+    29 [label="29", fillcolor="black"];
+    30 -> 65;
+    65 [label="65", fillcolor="black"];
+    65 -> 44;
+    44 [label="44", fillcolor="red"];
+}

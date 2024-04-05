@@ -1,0 +1,3 @@
+/mnt/c/Users/101061875/CLionProjects/Prog2/cmake-build-debug/CMakeFiles/Prog2.dir
+/mnt/c/Users/101061875/CLionProjects/Prog2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/101061875/CLionProjects/Prog2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

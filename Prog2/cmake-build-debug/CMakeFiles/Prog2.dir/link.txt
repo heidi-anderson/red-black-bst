@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Prog2.dir/main.cpp.o CMakeFiles/Prog2.dir/red_black_tree.cpp.o -o Prog2 
